@@ -266,7 +266,7 @@ Genera `data/resultados_errores.csv` y `analysis/grafico_errores.png`.
 
 ## Integrantes
 
-**Grupo 2 · L12 — Grupo par** · Docente: **PhD. María Elisia Armas Alvarado**
+**Grupo 5 · L12 — Grupo par** · Docente: **PhD. María Elisia Armas Alvarado**
 
 | Integrante |
 |---|
